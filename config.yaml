@@ -1,0 +1,10 @@
+data:
+  raw: data/raw
+  processed: data/processed
+  export: data/export
+
+models:
+  path: models
+
+files:
+  statewise_churn: statewise_electricity_churn_ml.csv
