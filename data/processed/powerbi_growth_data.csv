@@ -1,0 +1,91 @@
+Year,Sector,Consumption,Growth_Pct,Is_Churn,Churn_Status
+ 2000-01,Agriculture,84729.26,0.0,0,Growing
+ 2001-02,Agriculture,81673.39,-3.606628926064026,1,Declining
+ 2002-03,Agriculture,84485.95,3.443667515209059,0,Growing
+ 2003-04,Agriculture,87089.25,3.081340743638439,0,Growing
+ 2004-05,Agriculture,88555.35,1.6834454309802904,0,Growing
+ 2005-06,Agriculture,90292.4,1.961541566940883,0,Growing
+ 2006-07,Agriculture,99023.19,9.669462767630499,0,Growing
+ 2007-08,Agriculture,104181.7,5.2093959000916845,0,Growing
+ 2008-09,Agriculture,107776.09,3.450116479189713,0,Growing
+ 2000-01,Commercial,22544.66,0.0,0,Growing
+ 2001-02,Commercial,24139.78,7.075378382286535,0,Growing
+ 2002-03,Commercial,25437.25,5.3748211458430895,0,Growing
+ 2003-04,Commercial,28201.49,10.866897954771071,0,Growing
+ 2004-05,Commercial,31381.23,11.275078018927353,0,Growing
+ 2005-06,Commercial,35964.59,14.605418589392439,0,Growing
+ 2006-07,Commercial,40220.09,11.832471884150486,0,Growing
+ 2007-08,Commercial,46684.75,16.07321117381886,0,Growing
+ 2008-09,Commercial,53542.91,14.690364626564367,0,Growing
+ 2000-01,Domestic,75628.95,0.0,0,Growing
+ 2001-02,Domestic,79694.38,5.375494436984796,0,Growing
+ 2002-03,Domestic,83355.08,4.593423024308607,0,Growing
+ 2003-04,Domestic,89735.78,7.654842392329297,0,Growing
+ 2004-05,Domestic,95659.47,6.601257603154509,0,Growing
+ 2005-06,Domestic,100090.12,4.631689889145307,0,Growing
+ 2006-07,Domestic,111001.63,10.901685401116534,0,Growing
+ 2007-08,Domestic,120918.22,8.933733675802769,0,Growing
+ 2008-09,Domestic,130056.48,7.557388787231556,0,Growing
+ 2000-01,Industrial  Power at high  voltage,79319.13,0.0,0,Growing
+ 2001-02,Industrial  Power at high  voltage,79135.57,-0.23141958314469857,1,Declining
+ 2002-03,Industrial  Power at high  voltage,84386.76,6.635688603746703,0,Growing
+ 2003-04,Industrial  Power at high  voltage,91757.68,8.734687763815074,0,Growing
+ 2004-05,Industrial  Power at high  voltage,104354.58,13.728442131492447,0,Growing
+ 2005-06,Industrial  Power at high  voltage,117215.83,12.324566875742304,0,Growing
+ 2006-07,Industrial  Power at high  voltage,135274.46,15.406306469015307,0,Growing
+ 2007-08,Industrial  Power at high  voltage,148597.02,9.848540515334525,0,Growing
+ 2008-09,Industrial  Power at high  voltage,150383.51,1.202238106793807,0,Growing
+ 2000-01,Industrial  Power at low & medium voltage,28302.46,0.0,0,Growing
+ 2001-02,Industrial  Power at low & medium voltage,28160.03,-0.5032424743290909,1,Declining
+ 2002-03,Industrial  Power at low & medium voltage,30572.0,8.56522525011516,0,Growing
+ 2003-04,Industrial  Power at low & medium voltage,32815.4,7.338087138558169,0,Growing
+ 2004-05,Industrial  Power at low & medium voltage,32334.67,-1.4649524308708806,1,Declining
+ 2005-06,Industrial  Power at low & medium voltage,34340.99,6.204856891998589,0,Growing
+ 2006-07,Industrial  Power at low & medium voltage,36018.81,4.885764795947933,0,Growing
+ 2007-08,Industrial  Power at low & medium voltage,40827.02,13.34916395072463,0,Growing
+ 2008-09,Industrial  Power at low & medium voltage,45543.01,11.551149214417332,0,Growing
+ 2000-01,Miscellaneous  ,7396.45,0.0,0,Growing
+ 2001-02,Miscellaneous  ,10593.44,43.223303071067896,0,Growing
+ 2002-03,Miscellaneous  ,10690.7,0.9181153619598481,0,Growing
+ 2003-04,Miscellaneous  ,8482.49,-20.655429485440624,1,Declining
+ 2004-05,Miscellaneous  ,8866.96,4.532513448291708,0,Growing
+ 2005-06,Miscellaneous  ,8603.8,-2.9678717395815513,1,Declining
+ 2006-07,Miscellaneous  ,7254.81,-15.679002301308708,1,Declining
+ 2007-08,Miscellaneous  ,11737.77,61.79293461854962,0,Growing
+ 2008-09,Miscellaneous  ,10120.78,-13.775955739463285,1,Declining
+ 2000-01,Public lighting              ,3421.72,0.0,0,Growing
+ 2001-02,Public lighting              ,3587.3,4.839086775072188,0,Growing
+ 2002-03,Public lighting              ,3974.92,10.805341064310191,0,Growing
+ 2003-04,Public lighting              ,4426.1,11.350668692703248,0,Growing
+ 2004-05,Public lighting              ,4967.58,12.233794988816339,0,Growing
+ 2005-06,Public lighting              ,5177.16,4.2189557088159635,0,Growing
+ 2006-07,Public lighting              ,5824.68,12.507243353498843,0,Growing
+ 2007-08,Public lighting              ,6131.13,5.2612332351305025,0,Growing
+ 2008-09,Public lighting              ,6141.4,0.16750582682147908,0,Growing
+ 2000-01,Public water works & sewage pumping,7043.52,0.0,0,Growing
+ 2001-02,Public water works & sewage pumping,7369.79,4.632200944982046,0,Growing
+ 2002-03,Public water works & sewage pumping,7898.7,7.176730951628207,0,Growing
+ 2003-04,Public water works & sewage pumping,9218.95,16.71477584919039,0,Growing
+ 2004-05,Public water works & sewage pumping,9618.49,4.333899196763169,0,Growing
+ 2005-06,Public water works & sewage pumping,10258.15,6.650316213875573,0,Growing
+ 2006-07,Public water works & sewage pumping,10330.79,0.7081198851644821,0,Growing
+ 2007-08,Public water works & sewage pumping,11791.17,14.136189003938693,0,Growing
+ 2008-09,Public water works & sewage pumping,12191.43,3.394574075346224,0,Growing
+ 2000-01,Total sold to ultimate  consumers,209216.92,0.0,0,Growing
+ 2001-02,Total sold to ultimate  consumers,214717.06,2.6289173934880505,0,Growing
+ 2002-03,Total sold to ultimate  consumers,227726.01000000004,6.0586475988447575,0,Growing
+ 2003-04,Total sold to ultimate  consumers,360937.24,58.496273657980446,0,Growing
+ 2004-05,Total sold to ultimate  consumers,386133.66,6.980831348962502,0,Growing
+ 2005-06,Total sold to ultimate  consumers,411886.93,6.66952215458243,0,Growing
+ 2006-07,Total sold to ultimate  consumers,455748.47,10.648927364604654,0,Growing
+ 2007-08,Total sold to ultimate  consumers,501977.11,10.14345478768146,0,Growing
+ 2008-09,Total sold to ultimate  consumers,527563.97,5.097216484632128,0,Growing
+ 2000-01,Traction,8213.46,0.0,0,Growing
+ 2001-02,Traction,8105.65,-1.3126015102039812,1,Declining
+ 2002-03,Traction,8796.91,8.528125443363589,0,Growing
+ 2003-04,Traction,9210.11,4.697103869426877,0,Growing
+ 2004-05,Traction,9495.33,3.0968142617189054,0,Growing
+ 2005-06,Traction,9943.89,4.724006432635819,0,Growing
+ 2006-07,Traction,10800.01,8.609507949102424,0,Growing
+ 2007-08,Traction,11108.34,2.854904763977073,0,Growing
+ 2008-09,Traction,11808.36,6.301751656863219,0,Growing
