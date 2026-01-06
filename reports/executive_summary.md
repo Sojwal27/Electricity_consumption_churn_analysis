@@ -40,6 +40,16 @@ The analysis employed:
 - Churn identification based on significant consumption declines
 - Geographic analysis across Indian states
 
+## Limitations
+
+While this analysis provides valuable insights into electricity consumption patterns, several limitations should be considered:
+
+- **Dataset Time Frame**: The analysis is limited to 8 years (2000-2008), which may not capture long-term trends or recent developments in the electricity sector.
+- **Data Granularity**: Aggregated sectoral and state-level data may mask individual consumer behavior patterns and micro-level churn dynamics.
+- **External Factors**: The analysis does not account for external economic, policy, or environmental factors that could influence consumption patterns (e.g., economic growth, government policies, weather patterns).
+- **Churn Definition**: Churn is defined based on consumption declines, which may not fully capture all forms of customer attrition or sector-specific nuances.
+- **Geographic Scope**: While state-level analysis is included, more granular regional or urban/rural breakdowns could provide deeper insights.
+
 ## Data Sources
 
 - Primary dataset: Electricity sales to ultimate consumers (2000-2008)

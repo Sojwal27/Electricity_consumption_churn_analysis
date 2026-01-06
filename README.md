@@ -44,10 +44,6 @@ This project aims to analyze historical electricity consumption data and underst
 
 ## 🔍 Notebooks
 
-### **Electricity_Churn_Analysis.ipynb**
-- Comprehensive analysis notebook covering data loading, cleaning, preprocessing, exploratory data analysis, and churn analysis
-- Includes visualizations and insights on electricity consumption patterns
-
 ### **electricity_consumption_churn_analysis.ipynb**
 - Basic data loading and initial processing from raw Excel data
 - Extracts key columns for consumption analysis
@@ -112,7 +108,7 @@ Here are key visualizations from the electricity consumption and churn analysis:
 
 ### Geographic Consumption Patterns
 ![Geographic Patterns](visuals/04.png)
-## � Dashboards
+## 📊 Dashboards
 
 PowerBI dashboards for interactive visualization of electricity consumption patterns and churn analysis.
 
@@ -140,9 +136,10 @@ Directory for storing generated visualizations, charts, and graphical outputs fr
 - Processed data is cached in CSV format for faster analysis
 - All visualizations are interactive (Plotly)
 
-## 👤 Author
+## 👥 Authors & Contributors
 
-Sojwal27
+- **Sojwal Sonkusale** ([@Sojwal27](https://github.com/Sojwal27))
+- **Yogesh Yadav** ([@Yogiii13](https://github.com/Yogiii13))
 
 ## 📄 License
 
