@@ -17,13 +17,12 @@ This project aims to analyze historical electricity consumption data and underst
 │   │   ├── datafile.csv
 │   │   ├── powerbi_growth_data.csv
 │   │   └── powerbi_state_data.csv
+│   |   └── electricity_consumption_2000_2008.csv
 │   └── raw/
 ├── notebooks/
-│   ├── Electricity_Churn_Analysis.ipynb
 │   ├── electricity_consumption_churn_analysis.ipynb
 │   └── data/
 │       └── processed/
-│           └── electricity_consumption_2000_2008.csv
 ├── reports/
 │   └── executive_summary.md
 └── visuals/
@@ -98,7 +97,21 @@ pip install -r requirements.txt
 ## 📈 Key Findings
 
 *To be updated after analysis completion*
+## 📈 Visualizations
 
+Here are key visualizations from the electricity consumption and churn analysis:
+
+### Consumption Trends Over Time
+![Consumption Trends](visuals/01.png)
+
+### Sector-wise Consumption Distribution
+![Sector Distribution](visuals/02.png)
+
+### Churn Analysis by Sector
+![Churn Analysis](visuals/03.png)
+
+### Geographic Consumption Patterns
+![Geographic Patterns](visuals/04.png)
 ## � Dashboards
 
 PowerBI dashboards for interactive visualization of electricity consumption patterns and churn analysis.
