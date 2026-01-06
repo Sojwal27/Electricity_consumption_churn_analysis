@@ -11,61 +11,47 @@ This project aims to analyze historical electricity consumption data and underst
 ```
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
+├── dashboards/                        # PowerBI dashboards
 ├── data/
-│   ├── raw/
-│   │   └── ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS.xls
-│   └── processed/
-│       └── datafile.csv
-└── notebooks/
-    ├── 01_problem_understanding.ipynb              # Data loading & initial exploration
-    ├── 02_data_cleaning_preprocessing.ipynb        # Data cleaning pipeline
-    ├── 03_churn_definition_logic.ipynb             # Churn definition & categorization
-    ├── 04_exploratory_data_analysis.ipynb          # EDA & visualizations
-    ├── 05_insights_and_kpis.ipynb                  # KPIs & business insights
-    └── data/processed/
-        └── electricity_consumption_2000_2008.csv   # Processed data for analysis
+│   ├── processed/
+│   │   ├── datafile.csv
+│   │   ├── powerbi_growth_data.csv
+│   │   └── powerbi_state_data.csv
+│   └── raw/
+├── notebooks/
+│   ├── Electricity_Churn_Analysis.ipynb
+│   ├── electricity_consumption_churn_analysis.ipynb
+│   └── data/
+│       └── processed/
+│           └── electricity_consumption_2000_2008.csv
+├── reports/
+│   └── executive_summary.md
+└── visuals/
 ```
 
 ## 📊 Data Sources
 
-- **Raw Data**: `ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS.xls`
+- **Processed Data**: Cleaned and transformed CSV files ready for analysis
+  - `datafile.csv`: Main processed dataset
+  - `powerbi_growth_data.csv`: Data for growth analysis in PowerBI
+  - `powerbi_state_data.csv`: State-wise data for PowerBI dashboards
+  - `electricity_consumption_2000_2008.csv`: Electricity consumption data from 2000-2008
+
+- **Raw Data**: Original Excel file (not included in repository)
+  - `ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS.xls`
   - Time period: 2000-2008 (8 years)
   - Source: Electricity consumption records
   - Format: Excel (.xls)
 
-- **Processed Data**: Cleaned and transformed CSV files ready for analysis
-
 ## 🔍 Notebooks
 
-### 1. **Problem Understanding** (`01_problem_understanding.ipynb`)
-- Load Excel data into pandas DataFrame
-- Explore data structure and sheets
-- Extract relevant columns (Year, Total Electricity Consumption)
-- Initial data validation
-- Export cleaned data to CSV
+### **Electricity_Churn_Analysis.ipynb**
+- Comprehensive analysis notebook covering data loading, cleaning, preprocessing, exploratory data analysis, and churn analysis
+- Includes visualizations and insights on electricity consumption patterns
 
-### 2. **Data Cleaning & Preprocessing** (`02_data_cleaning_preprocessing.ipynb`)
-- Handle missing values
-- Data type conversions
-- Outlier detection and treatment
-- Feature engineering
-
-### 3. **Churn Definition Logic** (`03_churn_definition_logic.ipynb`)
-- Define churn metrics
-- Categorize customers based on consumption patterns
-- Create churn indicators
-
-### 4. **Exploratory Data Analysis** (`04_exploratory_data_analysis.ipynb`)
-- Statistical summaries
-- Visualizations of consumption trends
-- Distribution analysis
-- Correlation analysis
-
-### 5. **Insights & KPIs** (`05_insights_and_kpis.ipynb`)
-- Key performance indicators
-- Business insights
-- Recommendations
-- Summary dashboards
+### **electricity_consumption_churn_analysis.ipynb**
+- Basic data loading and initial processing from raw Excel data
+- Extracts key columns for consumption analysis
 
 ## 🚀 Getting Started
 
@@ -91,9 +77,9 @@ This project aims to analyze historical electricity consumption data and underst
    jupyter notebook
    ```
 
-4. **Run notebooks in order**
-   - Start with `01_problem_understanding.ipynb`
-   - Follow the sequence through `05_insights_and_kpis.ipynb`
+4. **Run notebooks**
+   - Start with `Electricity_Churn_Analysis.ipynb` for comprehensive analysis
+   - Alternatively, use `electricity_consumption_churn_analysis.ipynb` for basic data extraction
 
 ## 📦 Dependencies
 
@@ -113,13 +99,26 @@ pip install -r requirements.txt
 
 *To be updated after analysis completion*
 
+## � Dashboards
+
+PowerBI dashboards for interactive visualization of electricity consumption patterns and churn analysis.
+
+## 📋 Reports
+
+- `executive_summary.md`: Executive summary with key findings, insights, and business recommendations.
+
+## 📈 Visuals
+
+Directory for storing generated visualizations, charts, and graphical outputs from the analysis.
+
 ## 🔄 Workflow
 
-1. **Load & Validate**: Extract data from Excel files
-2. **Clean & Process**: Handle missing values and transformations
-3. **Define Churn**: Create churn metrics and categories
-4. **Explore & Visualize**: Generate insights through EDA
-5. **Report KPIs**: Document findings and recommendations
+1. **Data Loading**: Load and explore electricity consumption datasets
+2. **Data Cleaning**: Handle missing values, data type conversions, and preprocessing
+3. **Exploratory Analysis**: Statistical summaries, trend analysis, and visualizations
+4. **Churn Analysis**: Define churn metrics and identify patterns
+5. **Insights & Reporting**: Generate KPIs, business insights, and recommendations
+6. **Visualization**: Create dashboards and interactive reports
 
 ## 📝 Notes
 
