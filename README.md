@@ -113,6 +113,12 @@ pip install -r requirements.txt
 
 *To be updated after analysis completion*
 
+
+## 📈 PowerBi Dashboard
+
+<img width="649" height="369" alt="Screenshot 2026-01-07 163128" src="https://github.com/user-attachments/assets/ea2696a7-0c64-4d2c-9a57-8b5cd42a2b62" />
+
+
 ## 🔄 Workflow
 
 1. **Load & Validate**: Extract data from Excel files
