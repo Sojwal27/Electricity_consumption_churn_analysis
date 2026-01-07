@@ -1,0 +1,312 @@
+State,Sector,Consumption
+ Andhra Pradesh,Total sold to ultimate  consumers,54241.14
+ Arunachal Pradesh,Total sold to ultimate  consumers,271.47
+ Assam,Total sold to ultimate  consumers,2797.6
+ Bihar,Total sold to ultimate  consumers,4984.06
+ Chhattisgarh,Total sold to ultimate  consumers,12021.45
+ Goa,Total sold to ultimate  consumers,2616.98
+ Gujarat,Total sold to ultimate  consumers,45967.89
+ Haryana,Total sold to ultimate  consumers,19291.41
+ Himachal Pradesh,Total sold to ultimate  consumers,5460.51
+ Jammu & Kashmir,Total sold to ultimate  consumers,4030.85
+ Jharkhand ,Total sold to ultimate  consumers,12582.52
+ Karnataka,Total sold to ultimate  consumers,36039.59
+ Kerala,Total sold to ultimate  consumers,12188.89
+ Madhya Pradesh,Total sold to ultimate  consumers,21678.05
+ Maharashtra,Total sold to ultimate  consumers,72804.42
+ Manipur,Total sold to ultimate  consumers,197.12
+ Meghalaya,Total sold to ultimate  consumers,945.5
+ Mizoram,Total sold to ultimate  consumers,165.5
+ Nagaland,Total sold to ultimate  consumers,192.97
+ Orissa,Total sold to ultimate  consumers,11732.52
+ Punjab,Total sold to ultimate  consumers,29224.63
+ Rajasthan ,Total sold to ultimate  consumers,26641.57
+ Sikkim ,Total sold to ultimate  consumers,277.31
+ Tamil Nadu,Total sold to ultimate  consumers,53553.49
+ Tripura,Total sold to ultimate  consumers,450.84
+ Uttara Khand,Total sold to ultimate  consumers,4736.11
+ Uttar Pradesh,Total sold to ultimate  consumers,39636.82
+ West Bengal ,Total sold to ultimate  consumers,27779.3
+ A. & N. Islands,Total sold to ultimate  consumers,160.48
+ Chandigarh,Total sold to ultimate  consumers,1143.31
+ D. & N.Haveli,Total sold to ultimate  consumers,3070.0
+ Daman & Diu,Total sold to ultimate  consumers,1325.35
+ Delhi,Total sold to ultimate  consumers,17465.43
+ Lakshadweep,Total sold to ultimate  consumers,23.5
+ Puducherry ,Total sold to ultimate  consumers,1864.98
+ Andhra Pradesh,Domestic,11674.85
+ Arunachal Pradesh,Domestic,97.0
+ Assam,Domestic,1073.97
+ Bihar,Domestic,1768.27
+ Chhattisgarh,Domestic,2183.28
+ Goa,Domestic,626.52
+ Gujarat,Domestic,7809.54
+ Haryana,Domestic,3772.23
+ Himachal Pradesh,Domestic,1089.12
+ Jammu & Kashmir,Domestic,1399.08
+ Jharkhand ,Domestic,1619.58
+ Karnataka,Domestic,6696.01
+ Kerala,Domestic,5952.02
+ Madhya Pradesh,Domestic,5067.71
+ Maharashtra,Domestic,16945.89
+ Manipur,Domestic,120.12
+ Meghalaya,Domestic,226.69
+ Mizoram,Domestic,111.33
+ Nagaland,Domestic,145.0
+ Orissa,Domestic,2946.7
+ Punjab,Domestic,6458.66
+ Rajasthan ,Domestic,5014.92
+ Sikkim ,Domestic,63.74
+ Tamil Nadu,Domestic,13502.0
+ Tripura,Domestic,241.85
+ Uttara Khand,Domestic,1162.9
+ Uttar Pradesh,Domestic,15890.5
+ West Bengal ,Domestic,7631.12
+ A. & N. Islands,Domestic,75.49
+ Chandigarh,Domestic,420.71
+ D. & N.Haveli,Domestic,50.65
+ Daman & Diu,Domestic,50.49
+ Delhi,Domestic,7792.92
+ Lakshadweep,Domestic,15.88
+ Puducherry ,Domestic,353.74
+ Andhra Pradesh,Commercial,3884.58
+ Arunachal Pradesh,Commercial,29.0
+ Assam,Commercial,386.55
+ Bihar,Commercial,414.11
+ Chhattisgarh,Commercial,406.77
+ Goa,Commercial,166.07
+ Gujarat,Commercial,3571.52
+ Haryana,Commercial,1236.02
+ Himachal Pradesh,Commercial,274.66
+ Jammu & Kashmir,Commercial,213.42
+ Jharkhand ,Commercial,275.66
+ Karnataka,Commercial,5810.84
+ Kerala,Commercial,2105.19
+ Madhya Pradesh,Commercial,1230.38
+ Maharashtra,Commercial,9113.38
+ Manipur,Commercial,14.22
+ Meghalaya,Commercial,43.09
+ Mizoram,Commercial,11.83
+ Nagaland,Commercial,8.95
+ Orissa,Commercial,807.0
+ Punjab,Commercial,1896.98
+ Rajasthan ,Commercial,1631.93
+ Sikkim ,Commercial,46.97
+ Tamil Nadu,Commercial,6381.0
+ Tripura,Commercial,41.02
+ Uttara Khand,Commercial,712.43
+ Uttar Pradesh,Commercial,2957.64
+ West Bengal ,Commercial,3525.74
+ A. & N. Islands,Commercial,41.24
+ Chandigarh,Commercial,375.15
+ D. & N.Haveli,Commercial,139.07
+ Daman & Diu,Commercial,26.98
+ Delhi,Commercial,5638.65
+ Lakshadweep,Commercial,6.05
+ Puducherry ,Commercial,118.81
+ Andhra Pradesh,Industrial  Power at low & medium voltage,3102.0
+ Arunachal Pradesh,Industrial  Power at low & medium voltage,45.0
+ Assam,Industrial  Power at low & medium voltage,64.35
+ Bihar,Industrial  Power at low & medium voltage,161.84
+ Chhattisgarh,Industrial  Power at low & medium voltage,400.69
+ Goa,Industrial  Power at low & medium voltage,133.11
+ Gujarat,Industrial  Power at low & medium voltage,7050.89
+ Haryana,Industrial  Power at low & medium voltage,1113.8
+ Himachal Pradesh,Industrial  Power at low & medium voltage,1356.2
+ Jammu & Kashmir,Industrial  Power at low & medium voltage,950.06
+ Jharkhand ,Industrial  Power at low & medium voltage,133.34
+ Karnataka,Industrial  Power at low & medium voltage,1537.56
+ Kerala,Industrial  Power at low & medium voltage,1046.04
+ Madhya Pradesh,Industrial  Power at low & medium voltage,748.57
+ Maharashtra,Industrial  Power at low & medium voltage,6307.74
+ Manipur,Industrial  Power at low & medium voltage,7.34
+ Meghalaya,Industrial  Power at low & medium voltage,4.96
+ Mizoram,Industrial  Power at low & medium voltage,1.61
+ Nagaland,Industrial  Power at low & medium voltage,13.9
+ Orissa,Industrial  Power at low & medium voltage,318.21
+ Punjab,Industrial  Power at low & medium voltage,1984.68
+ Rajasthan ,Industrial  Power at low & medium voltage,4155.54
+ Sikkim ,Industrial  Power at low & medium voltage,97.78
+ Tamil Nadu,Industrial  Power at low & medium voltage,5518.0
+ Tripura,Industrial  Power at low & medium voltage,30.98
+ Uttara Khand,Industrial  Power at low & medium voltage,156.2
+ Uttar Pradesh,Industrial  Power at low & medium voltage,3694.11
+ West Bengal ,Industrial  Power at low & medium voltage,2329.87
+ A. & N. Islands,Industrial  Power at low & medium voltage,7.67
+ Chandigarh,Industrial  Power at low & medium voltage,113.43
+ D. & N.Haveli,Industrial  Power at low & medium voltage,283.06
+ Daman & Diu,Industrial  Power at low & medium voltage,134.92
+ Delhi,Industrial  Power at low & medium voltage,2419.37
+ Lakshadweep,Industrial  Power at low & medium voltage,0.27
+ Puducherry ,Industrial  Power at low & medium voltage,119.93
+ Andhra Pradesh,Industrial  Power at high  voltage,14410.99
+ Arunachal Pradesh,Industrial  Power at high  voltage,71.47
+ Assam,Industrial  Power at high  voltage,859.04
+ Bihar,Industrial  Power at high  voltage,1269.14
+ Chhattisgarh,Industrial  Power at high  voltage,5205.3
+ Goa,Industrial  Power at high  voltage,1487.71
+ Gujarat,Industrial  Power at high  voltage,13841.47
+ Haryana,Industrial  Power at high  voltage,4325.45
+ Himachal Pradesh,Industrial  Power at high  voltage,2050.39
+ Jharkhand ,Industrial  Power at high  voltage,9363.42
+ Karnataka,Industrial  Power at high  voltage,7531.48
+ Kerala,Industrial  Power at high  voltage,2306.43
+ Madhya Pradesh,Industrial  Power at high  voltage,4681.44
+ Maharashtra,Industrial  Power at high  voltage,22588.0
+ Manipur,Industrial  Power at high  voltage,1.34
+ Meghalaya,Industrial  Power at high  voltage,523.58
+ Orissa,Industrial  Power at high  voltage,6335.2
+ Punjab,Industrial  Power at high  voltage,8453.09
+ Rajasthan ,Industrial  Power at high  voltage,3702.76
+ Tamil Nadu,Industrial  Power at high  voltage,15751.92
+ Tripura,Industrial  Power at high  voltage,53.99
+ Uttara Khand,Industrial  Power at high  voltage,2131.45
+ Uttar Pradesh,Industrial  Power at high  voltage,8169.01
+ West Bengal ,Industrial  Power at high  voltage,10065.06
+ Chandigarh,Industrial  Power at high  voltage,135.85
+ D. & N.Haveli,Industrial  Power at high  voltage,2570.82
+ Daman & Diu,Industrial  Power at high  voltage,1090.83
+ Delhi,Industrial  Power at high  voltage,246.0
+ Puducherry ,Industrial  Power at high  voltage,1160.88
+ Andhra Pradesh,Public lighting              ,1619.03
+ Arunachal Pradesh,Public lighting              ,17.0
+ Assam,Public lighting              ,6.69
+ Bihar,Public lighting              ,22.91
+ Chhattisgarh,Public lighting              ,59.56
+ Goa,Public lighting              ,36.28
+ Gujarat,Public lighting              ,239.45
+ Haryana,Public lighting              ,54.61
+ Himachal Pradesh,Public lighting              ,13.01
+ Jammu & Kashmir,Public lighting              ,11.42
+ Jharkhand ,Public lighting              ,89.09
+ Karnataka,Public lighting              ,616.23
+ Kerala,Public lighting              ,254.55
+ Madhya Pradesh,Public lighting              ,196.1
+ Maharashtra,Public lighting              ,782.15
+ Manipur,Public lighting              ,3.2
+ Meghalaya,Public lighting              ,1.49
+ Mizoram,Public lighting              ,4.12
+ Nagaland,Public lighting              ,4.86
+ Orissa,Public lighting              ,53.9
+ Punjab,Public lighting              ,135.26
+ Rajasthan ,Public lighting              ,195.9
+ Sikkim ,Public lighting              ,1.95
+ Tamil Nadu,Public lighting              ,456.0
+ Tripura,Public lighting              ,13.41
+ Uttara Khand,Public lighting              ,45.23
+ Uttar Pradesh,Public lighting              ,579.43
+ West Bengal ,Public lighting              ,248.66
+ A. & N. Islands,Public lighting              ,8.62
+ Chandigarh,Public lighting              ,13.58
+ D. & N.Haveli,Public lighting              ,7.38
+ Daman & Diu,Public lighting              ,4.33
+ Delhi,Public lighting              ,290.15
+ Lakshadweep,Public lighting              ,1.3
+ Puducherry ,Public lighting              ,14.55
+ Andhra Pradesh,Traction,1414.35
+ Bihar,Traction,399.76
+ Chhattisgarh,Traction,711.06
+ Gujarat,Traction,623.8
+ Haryana,Traction,449.36
+ Jharkhand ,Traction,964.6
+ Karnataka,Traction,81.41
+ Kerala,Traction,142.17
+ Madhya Pradesh,Traction,1442.62
+ Maharashtra,Traction,2109.88
+ Orissa,Traction,624.84
+ Punjab,Traction,123.41
+ Rajasthan ,Traction,302.27
+ Tamil Nadu,Traction,518.57
+ Uttara Khand,Traction,9.48
+ Uttar Pradesh,Traction,613.64
+ West Bengal ,Traction,992.46
+ Delhi,Traction,284.68
+ Andhra Pradesh,Agriculture,16604.57
+ Assam,Agriculture,20.86
+ Bihar,Agriculture,798.0
+ Chhattisgarh,Agriculture,2049.93
+ Goa,Agriculture,40.18
+ Gujarat,Agriculture,11729.71
+ Haryana,Agriculture,7365.4
+ Himachal Pradesh,Agriculture,28.74
+ Jammu & Kashmir,Agriculture,271.42
+ Jharkhand ,Agriculture,69.62
+ Karnataka,Agriculture,11314.43
+ Kerala,Agriculture,234.98
+ Madhya Pradesh,Agriculture,6217.5
+ Maharashtra,Agriculture,13066.12
+ Manipur,Agriculture,0.12
+ Meghalaya,Agriculture,0.5
+ Nagaland,Agriculture,0.04
+ Orissa,Agriculture,141.49
+ Punjab,Agriculture,9325.42
+ Rajasthan ,Agriculture,9790.86
+ Tamil Nadu,Agriculture,10529.0
+ Tripura,Agriculture,33.39
+ Uttara Khand,Agriculture,300.2
+ Uttar Pradesh,Agriculture,6860.36
+ West Bengal ,Agriculture,843.28
+ A. & N. Islands,Agriculture,0.7
+ Chandigarh,Agriculture,1.35
+ D. & N.Haveli,Agriculture,9.2
+ Daman & Diu,Agriculture,2.47
+ Delhi,Agriculture,52.77
+ Puducherry ,Agriculture,73.48
+ Andhra Pradesh,Public water works & sewage pumping,809.38
+ Arunachal Pradesh,Public water works & sewage pumping,12.0
+ Assam,Public water works & sewage pumping,39.04
+ Bihar,Public water works & sewage pumping,150.03
+ Chhattisgarh,Public water works & sewage pumping,106.66
+ Goa,Public water works & sewage pumping,127.11
+ Gujarat,Public water works & sewage pumping,1064.8
+ Haryana,Public water works & sewage pumping,467.19
+ Himachal Pradesh,Public water works & sewage pumping,368.05
+ Jammu & Kashmir,Public water works & sewage pumping,460.23
+ Jharkhand ,Public water works & sewage pumping,67.62
+ Karnataka,Public water works & sewage pumping,1576.71
+ Kerala,Public water works & sewage pumping,70.51
+ Madhya Pradesh,Public water works & sewage pumping,565.76
+ Maharashtra,Public water works & sewage pumping,1765.14
+ Manipur,Public water works & sewage pumping,9.54
+ Meghalaya,Public water works & sewage pumping,29.73
+ Mizoram,Public water works & sewage pumping,25.25
+ Nagaland,Public water works & sewage pumping,2.2
+ Orissa,Public water works & sewage pumping,150.83
+ Punjab,Public water works & sewage pumping,327.98
+ Rajasthan ,Public water works & sewage pumping,1238.34
+ Tamil Nadu,Public water works & sewage pumping,897.0
+ Tripura,Public water works & sewage pumping,35.28
+ Uttara Khand,Public water works & sewage pumping,217.38
+ Uttar Pradesh,Public water works & sewage pumping,831.92
+ West Bengal ,Public water works & sewage pumping,533.67
+ D. & N.Haveli,Public water works & sewage pumping,9.82
+ Daman & Diu,Public water works & sewage pumping,1.05
+ Delhi,Public water works & sewage pumping,187.79
+ Puducherry ,Public water works & sewage pumping,23.59
+ Andhra Pradesh,Miscellaneous  ,721.39
+ Assam,Miscellaneous  ,347.1
+ Chhattisgarh,Miscellaneous  ,898.2
+ Gujarat,Miscellaneous  ,36.71
+ Haryana,Miscellaneous  ,507.35
+ Himachal Pradesh,Miscellaneous  ,280.34
+ Jammu & Kashmir,Miscellaneous  ,725.21
+ Karnataka,Miscellaneous  ,874.92
+ Kerala,Miscellaneous  ,37.0
+ Madhya Pradesh,Miscellaneous  ,1527.97
+ Maharashtra,Miscellaneous  ,106.12
+ Manipur,Miscellaneous  ,41.24
+ Meghalaya,Miscellaneous  ,115.46
+ Mizoram,Miscellaneous  ,11.36
+ Nagaland,Miscellaneous  ,18.2
+ Orissa,Miscellaneous  ,354.35
+ Punjab,Miscellaneous  ,519.15
+ Rajasthan ,Miscellaneous  ,609.05
+ Sikkim ,Miscellaneous  ,66.87
+ Tripura,Miscellaneous  ,0.92
+ Uttara Khand,Miscellaneous  ,0.84
+ Uttar Pradesh,Miscellaneous  ,40.21
+ West Bengal ,Miscellaneous  ,1609.44
+ A. & N. Islands,Miscellaneous  ,26.76
+ Chandigarh,Miscellaneous  ,83.24
+ Daman & Diu,Miscellaneous  ,8.28
+ Delhi,Miscellaneous  ,553.1
