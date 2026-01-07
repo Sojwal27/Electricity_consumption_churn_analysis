@@ -108,9 +108,53 @@ Here are key visualizations from the electricity consumption and churn analysis:
 
 ### Geographic Consumption Patterns
 ![Geographic Patterns](visuals/04.png)
-## 📊 Dashboards
 
-PowerBI dashboards for interactive visualization of electricity consumption patterns and churn analysis.
+## 📊 Power BI Dashboard (Added)
+
+This project now includes **interactive Power BI dashboards** in addition to the Python-based analysis, enabling advanced visualization and business-friendly insights into electricity consumption and customer churn.
+
+### What’s Included
+
+- Interactive **Power BI dashboards** for electricity consumption & churn analysis  
+- Preprocessed datasets optimized for Power BI reporting  
+- State-wise and year-wise analytical views  
+- KPI-focused visuals with slicers and filters  
+
+### Dashboard Location
+```
+/dashboards
+```
+
+Open the `.pbix` files using **Microsoft Power BI Desktop** to explore the dashboards.
+
+### Power BI Data Sources
+
+The dashboards use cleaned datasets generated from the existing analysis notebooks and stored in:
+
+```
+/data/processed/
+```
+
+Key files:
+- `powerbi_growth_data.csv`
+- `powerbi_state_data.csv`
+
+### Insights You Can Explore
+
+- Year-wise electricity consumption growth trends  
+- State-wise comparison of consumption and churn behavior  
+- Interactive filtering for focused analysis  
+- Business-ready visual storytelling for decision making  
+
+### Requirements (Optional)
+
+> Required only if you want to view or edit dashboards
+
+- Microsoft Power BI Desktop (latest version recommended)
+
+---
+
+
 
 ## 📋 Reports
 
